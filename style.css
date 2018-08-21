@@ -10,14 +10,14 @@ body {
 		margin-bottom: 100px;
 		margin-right: 150px;
 		margin-left: 80px;
-		background-color: grey
+		background-color: rgb(236, 232, 232)
 	}
 
 .navbar-header{
 		font-style: bold;
 		border-width: 5px;
-		border-color: rgb(74, 85, 81); 
-		background-color: rgb(122, 153, 255);
+		border-color: rgb(255, 255, 255); 
+		background-color: teal;
 	}
 
 .container{
@@ -25,7 +25,7 @@ body {
 }	
 
 h1{
-	color:  rgb(144, 153, 60);
+	color: teal;
 }
 
 .HWsum img{
@@ -40,7 +40,6 @@ h1{
 	width: 70%;
 	border-width: 5px;
 	border-style: solid;
-	border-color: black;
 	}
 
 .imgbutton img{
@@ -48,5 +47,5 @@ h1{
 }
 
 .navbar{
-	background-color: lightslategray;
+	background-color:white;
 	}
