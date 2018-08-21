@@ -1,0 +1,52 @@
+.Homeimg img{
+	width: 90%;
+	border-width: 5px;
+	float: right;
+	border-style: solid;
+	border-color: white;
+	}
+body {
+		margin-top: 100px;
+		margin-bottom: 100px;
+		margin-right: 150px;
+		margin-left: 80px;
+		background-color: grey
+	}
+
+.navbar-header{
+		font-style: bold;
+		border-width: 5px;
+		border-color: rgb(74, 85, 81); 
+		background-color: rgb(122, 153, 255);
+	}
+
+.container{
+	background-color: white;
+}	
+
+h1{
+	color:  rgb(144, 153, 60);
+}
+
+.HWsum img{
+	width: 50%;
+	border-width: 5px;
+	float: left;
+	border-style: solid;
+	border-color: white;
+	}
+
+.Genimg img{
+	width: 70%;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	}
+
+.imgbutton img{
+	width: 100%;
+}
+
+.navbar{
+	background-color: lightslategray;
+	}
