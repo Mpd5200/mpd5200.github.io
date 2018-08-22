@@ -10,27 +10,26 @@ body {
 		margin-bottom: 100px;
 		margin-right: 150px;
 		margin-left: 80px;
-		background-color: rgb(236, 232, 232)
+		background-color: rgb(231, 227, 255)
 	}
 
-.navbar-header{
+.navbar-header {
         font-style: bold;
-        text-transform: uppercase
 		border-width: 5px;
 		border-color: rgb(255, 255, 255); 
-		background-color: teal;
+		background-color: rgb(201, 201, 201)
 	}
 	
 .navbar-default .navbar-brand {
 		color: #FFFF;
 	}
 .container{
-    background-color: white;
+    background-color: rgb(234, 244, 247);
     border-color:white 
 }	
 
 h1{
-	color: teal;
+	color: rgb(61, 60, 60);
 	
 }
 
@@ -54,5 +53,5 @@ h1{
 }
 
 .navbar{
-	background-color:white;
+	background-color:rgb(234, 244, 247);
 	}
