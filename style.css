@@ -20,7 +20,10 @@ body {
 		border-color: rgb(255, 255, 255); 
 		background-color: teal;
 	}
-
+	
+.navbar-default .navbar-brand {
+		color: #FFFF;
+	}
 .container{
     background-color: white;
     border-color:white 
